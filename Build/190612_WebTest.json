@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2019_WebGL_VideoTest",
+"dataUrl": "190612_WebTest.data.unityweb",
+"wasmCodeUrl": "190612_WebTest.wasm.code.unityweb",
+"wasmFrameworkUrl": "190612_WebTest.wasm.framework.unityweb",
+"asmCodeUrl": "190612_WebTest.asm.code.unityweb",
+"asmMemoryUrl": "190612_WebTest.asm.memory.unityweb",
+"asmFrameworkUrl": "190612_WebTest.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
